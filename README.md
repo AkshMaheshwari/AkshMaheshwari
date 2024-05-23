@@ -10,7 +10,7 @@
 
 - ⚡ Fun fact **I Like Football**
 
-- 😊 Trying to be the **best version of myself**
+- 😊 Trying to be the **Best version of myself**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
