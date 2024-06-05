@@ -14,6 +14,8 @@
 
 - 😁 Trying to be the best version of myself
 
+- 🙌 Trying to create a positive change in the world of tech
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aksh-maheshwari-a07609281" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aksh-maheshwari-a07609281" height="30" width="40" /></a>
