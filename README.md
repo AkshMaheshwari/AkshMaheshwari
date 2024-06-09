@@ -6,15 +6,15 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshmaheshwari&label=Profile%20views&color=0e75b6&style=flat" alt="akshmaheshwari" /> </p>
 
 
-- 🌱 I’m currently learning **Cybersecurity**.
+- 🌱 I’m currently learning **Cybersecurity**
 
-- 📫 How to reach me :- **aksh.maheshwari05@gmail.com**.
+- 📫 How to reach me :- **aksh.maheshwari05@gmail.com**
 
-- ⚡ Fun fact **I Like Football**.
+- ⚡ Fun fact **I Like Football**
 
-- 😁 Trying to be the best version of myself.
+- 😁 Trying to be the best version of myself
 
-- 🙌 Trying to create a positive change in the world of tech.
+- 🙌 Trying to create a positive change in the world of tech
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
