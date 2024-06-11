@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshmaheshwari&label=Profile%20views&color=0e75b6&style=flat" alt="akshmaheshwari" /> </p>
 
 
-- 🌱 I’m currently learning **Cybersecurity**
+- 🌱 I’m currently learning **JavaScript,Cybersecurity**
 
 - 📫 How to reach me :- **aksh.maheshwari05@gmail.com**
 
