@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **JavaScript,Cybersecurity**
 
-- 📫 How to reach me :- **aksh.maheshwari05@gmail.com**
+- 📫 How to reach me : **aksh.maheshwari05@gmail.com**
 
 - ⚡ Fun fact **I Like Football**
 
