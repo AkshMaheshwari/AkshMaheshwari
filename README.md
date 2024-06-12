@@ -32,3 +32,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshmaheshwari&show_icons=true&locale=en" alt="akshmaheshwari" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshmaheshwari&" alt="akshmaheshwari" /></p>
+
+[![AkshMaheshwari's GitHub | Stats](https://stats.quine.sh/AkshMaheshwari/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=AkshMaheshwari)
