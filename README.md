@@ -11,9 +11,15 @@
 [![Aksh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=akshmaheshwari&bg_color=23304d&color=6258f3&line=674c9a&point=5d5695&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ![](https://github-readme-stats.vercel.app/api?username=AkshMaheshwari&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AkshMaheshwari&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AkshMaheshwari&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=AkshMaheshwari&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<img 
+  src="https://wakatime.com/share/@380d63c0-2ebb-4867-81ce-eac22be14ff9/fb52131e-c944-4be1-88ac-b9235049dc63.svg"
+  width="700"
+/>
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
