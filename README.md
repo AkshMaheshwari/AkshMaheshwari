@@ -1,26 +1,23 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,50:1b2a4a,100:0a1628&height=200&section=header&text=Aksh%20Maheshwari&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%E2%80%A2%20Full%20Stack%20Builder%20%E2%80%A2%20Open%20Source%20Contributor&descAlignY=58&descSize=18&descColor=cccccc" alt="header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,40:001515,60:002a2a,100:000000&height=200&section=header&text=Aksh%20Maheshwari&fontSize=62&fontColor=00FFF5&fontAlignY=45&desc=Full%20Stack%20Dev%20%7C%20Competitive%20Programmer%20%7C%20AI%20Builder&descAlignY=65&descSize=18&descColor=88ffee" alt="header" width="100%" />
 
 <p align="center">
-  Building full stack applications and exploring the intersection of web and AI.
+  Crafting full-stack products, cracking algorithms, and building with AI.
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=6258F3&center=true&vCenter=true&width=600&lines=React+%7C+Python+%7C+JavaScript+%7C+C%2B%2B;MongoDB+%7C+MySQL+%7C+Firebase+%7C+GCP;Building+clean+UIs+and+robust+backends" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00FFF5&center=true&vCenter=true&width=600&lines=Full+Stack+Dev+%7C+Competitive+Programmer+%7C+AI+Builder;React+%7C+Next.js+%7C+FastAPI+%7C+Python+%7C+C%2B%2B;ICPC+Regionals+2025+%7C+LeetCode+%7C+Codeforces" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <code>while(!success) { tryAgain(); learnMore(); }</code>
-</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=akshmaheshwari&label=Profile%20views&color=6258F3&style=flat" alt="akshmaheshwari" />
+  <img src="https://komarev.com/ghpvc/?username=akshmaheshwari&label=Profile%20views&color=00FFF5&style=flat" alt="akshmaheshwari" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🚀 Passionate about building **full stack web apps** and exploring hardware with **Arduino**
+- 🚀 Passionate about building **full stack web apps** and diving deep into **AI/ML**
 - 🌐 Open Source Contributor · Google Cloud enthusiast
 - 🏆 **ICPC Regionals 2025** — Rank 251
 - 💻 Active competitive programmer on **LeetCode**, **Codeforces** & **CodeChef**
@@ -51,20 +48,20 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akshmaheshwari&theme=github_dark" alt="profile details" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akshmaheshwari&theme=2077" alt="profile details" width="100%" />
 </p>
 
 <table width="100%">
 <tr>
-<td align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akshmaheshwari&theme=github_dark" alt="repos per language" /></td>
-<td align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=akshmaheshwari&theme=github_dark" alt="most commit language" /></td>
-<td align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=akshmaheshwari&theme=github_dark" alt="stats" /></td>
-<td align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=akshmaheshwari&theme=github_dark&utcOffset=5.5" alt="productive time" /></td>
+<td align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akshmaheshwari&theme=2077" alt="repos per language" /></td>
+<td align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=akshmaheshwari&theme=2077" alt="most commit language" /></td>
+<td align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=akshmaheshwari&theme=2077" alt="stats" /></td>
+<td align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=akshmaheshwari&theme=2077&utcOffset=5.5" alt="productive time" /></td>
 </tr>
 </table>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkshMaheshwari&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkshMaheshwari&background=0D1117&ring=00FFF5&fire=00FFF5&currStreakLabel=00FFF5&sideLabels=88ffee&currStreakNum=ffffff&sideNums=ffffff&dates=555555&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -83,7 +80,7 @@
 
 <p align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=akshmaheshwari&bg_color=23304d&color=6258f3&line=674c9a&point=5d5695&area=true&hide_border=true" alt="Activity Graph" width="100%" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=akshmaheshwari&bg_color=0d1117&color=00FFF5&line=00C9A7&point=00FFF5&area=true&hide_border=true" alt="Activity Graph" width="100%" />
   </a>
 </p>
 
@@ -96,16 +93,16 @@
 ## 🌐 Connect
 
 <p align="center">
-  <a href="https://github.com/AkshMaheshwari"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/aksh-maheshwari-a07609281"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.instagram.com/akshhh._23"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a>
-  <a href="https://leetcode.com/aksh_m"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white" /></a>
-  <a href="https://codeforces.com/profile/aksh.maheshwari05"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?logo=codeforces&logoColor=white" /></a>
-  <a href="https://www.codechef.com/users/akshm2312"><img src="https://img.shields.io/badge/CodeChef-5B4638?logo=codechef&logoColor=white" /></a>
+  <a href="https://github.com/AkshMaheshwari"><img src="https://img.shields.io/badge/GitHub-0d1117?logo=github&logoColor=00FFF5&style=for-the-badge" /></a>
+  <a href="https://linkedin.com/in/aksh-maheshwari-a07609281"><img src="https://img.shields.io/badge/LinkedIn-0d1117?logo=linkedin&logoColor=00FFF5&style=for-the-badge" /></a>
+  <a href="https://www.instagram.com/akshhh._23"><img src="https://img.shields.io/badge/Instagram-0d1117?logo=instagram&logoColor=00FFF5&style=for-the-badge" /></a>
+  <a href="https://leetcode.com/aksh_m"><img src="https://img.shields.io/badge/LeetCode-0d1117?logo=leetcode&logoColor=00FFF5&style=for-the-badge" /></a>
+  <a href="https://codeforces.com/profile/aksh.maheshwari05"><img src="https://img.shields.io/badge/Codeforces-0d1117?logo=codeforces&logoColor=00FFF5&style=for-the-badge" /></a>
+  <a href="https://www.codechef.com/users/akshm2312"><img src="https://img.shields.io/badge/CodeChef-0d1117?logo=codechef&logoColor=00FFF5&style=for-the-badge" /></a>
 </p>
 
 <p align="center">
-  <i>Code. Build. Repeat.</i>
+  <i style="color:#00FFF5">while(!ac) { debug(); submit(); }</i>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1628,50:1b2a4a,100:0d1b2a&height=100&section=footer" alt="footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,40:002a2a,60:001515,100:000000&height=80&section=footer" alt="footer" width="100%" />
