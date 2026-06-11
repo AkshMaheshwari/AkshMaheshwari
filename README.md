@@ -17,8 +17,7 @@
 
 ## 👨‍💻 About Me
 
-- 🚀 Passionate about building **full stack web apps** and diving deep into **AI/ML**
-- 🌐 Open Source Contributor · Google Cloud enthusiast
+- 🚀 Passionate about building **full stack web apps** and diving deep into **AI and Automation driven technologies**
 - 🏆 **ICPC Regionals 2025** — Rank 251
 - 💻 Active competitive programmer on **LeetCode**, **Codeforces** & **CodeChef**
 - 🛠️ Comfortable across the stack — from **C/C++** to **React** to **cloud deployments**
